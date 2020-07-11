@@ -1,0 +1,1 @@
+import '@yonatankra/test-component';
